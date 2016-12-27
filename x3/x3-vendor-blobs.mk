@@ -795,4 +795,21 @@ PRODUCT_COPY_FILES += \
     vendor/letv/x3/proprietary/lib{,64}/libgf_hal.so:system/lib{,64}/libgf_hal.so \
     vendor/letv/x3/proprietary/lib{,64}/libgf_ca.so:system/lib{,64}/libgf_ca.so \
     vendor/letv/x3/proprietary/lib{,64}/libMcClient.so:system/lib{,64}/libMcClient.so \
-    vendor/letv/x3/proprietary/lib{,64}/libgf_algo.so:system/lib{,64}/libgf_algo.so
+    vendor/letv/x3/proprietary/lib{,64}/libgf_algo.so:system/lib{,64}/libgf_algo.so \
+    vendor/letv/x3/proprietary/etc/agps_profiles_conf2.xml:system/etc/agps_profiles_conf2.xml \
+    vendor/letv/x3/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
+    vendor/letv/x3/proprietary/etc/audio_device.xml:system/etc/audio_device.xml \
+    vendor/letv/x3/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
+    vendor/letv/x3/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
+    vendor/letv/x3/proprietary/etc/hk_ecc_list.xml:system/etc/hk_ecc_list.xml \
+    vendor/letv/x3/proprietary/etc/india_ecc_list.xml:system/etc/india_ecc_list.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs_mediatek_audio.xml:system/etc/media_codecs_mediatek_audio.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs_mediatek_video.xml:system/etc/media_codecs_mediatek_video.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs_mediatek_video_mt6795mm.xml:system/etc/media_codecs_mediatek_video_mt6795mm.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs_mt6795mm.xml:system/etc/media_codecs_mt6795mm.xml \
+    vendor/letv/x3/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
+    vendor/letv/x3/proprietary/etc/permissions/android.hardware.microphone.xml:system/etc/permissions/android.hardware.microphone.xml \
+    vendor/letv/x3/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
+    vendor/letv/x3/proprietary/etc/thailand_ecc_list.xml:system/etc/thailand_ecc_list.xml
+
