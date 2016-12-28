@@ -811,5 +811,8 @@ PRODUCT_COPY_FILES += \
     vendor/letv/x3/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
     vendor/letv/x3/proprietary/etc/permissions/android.hardware.microphone.xml:system/etc/permissions/android.hardware.microphone.xml \
     vendor/letv/x3/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
-    vendor/letv/x3/proprietary/etc/thailand_ecc_list.xml:system/etc/thailand_ecc_list.xml
+    vendor/letv/x3/proprietary/etc/thailand_ecc_list.xml:system/etc/thailand_ecc_list.xml \
+    vendor/letv/x3/proprietary/lib{,64}/libGLES_trace.so:system/lib{,64}/libGLES_trace.so \
+    vendor/letv/x3/proprietary/lib{,64}/libGLESv1_CM.so:system/lib{,64}/libGLESv1_CM.so \
+    vendor/letv/x3/proprietary/lib{,64}/libGLESv2.so:system/lib{,64}/libGLESv2.so
 
